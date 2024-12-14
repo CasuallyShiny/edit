@@ -6,7 +6,7 @@
 
 # ► Adblocking
 
-* **Note** - Don't run multiple general adblockers (e.g., uBlock Origin and Adblock Plus) simultaneously to [avoid breakage](https://twitter.com/gorhill/status/1033706103782170625). Combining general adblockers with tools like SponsorBlock is fine.
+* **Note** - Don't run multiples general adblockers (e.g., uBlock Origin and Adblock Plus) simultaneously to [avoid breakage](https://twitter.com/gorhill/status/1033706103782170625). Combining general adblockers with tools like SponsorBlock is fine.
 
 ***
 
